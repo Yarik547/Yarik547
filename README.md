@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning python
+- 💬 Ask me about me skills
+- 📫 How to reach me: yarikpelyp@icloud.com
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Yarik547/30-nites-of-code)  
-  ![@Yarik547 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yarik547)
+#30NitesOfCode:
+![@Yarik547 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yarik547)
 
 <!--
 **Yarik547/Yarik547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
