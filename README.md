@@ -4,7 +4,6 @@
 - 💬 Ask me about me skills
 - 📫 How to reach me: yarikpelyp@icloud.com
 
-# #30NitesOfCode:
 ![@Yarik547 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yarik547)
 
 <!--
