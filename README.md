@@ -4,7 +4,6 @@
 - 💬 Ask me about me skills
 - 📫 How to reach me: yarikpelyp@icloud.com
 
-![@Yarik547 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Yarik547)
 
 <!--
 **Yarik547/Yarik547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
