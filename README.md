@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning react
 - 💬 Ask me about me skills
 - 📫 How to reach me: yarikpelyp@icloud.com
 
