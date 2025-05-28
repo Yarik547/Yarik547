@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning python
 - 💬 Ask me about me skills
 - 📫 How to reach me: yarikpelyp@icloud.com
 
